@@ -1,4 +1,4 @@
-package firstProject;
+package galaxy.components;
 
 public class Planeta {
 
